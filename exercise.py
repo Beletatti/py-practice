@@ -15,6 +15,3 @@ def weeks_left(age):
 # Input: current age
 current_age = int(input("Enter your current age: "))
 print(weeks_left(current_age))
-print('Por hoje é só')
-
-#ABLUELFDSAFDSUELWSUSLDFPBLUE
